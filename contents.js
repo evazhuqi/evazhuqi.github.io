@@ -1,6 +1,7 @@
 
-let introText = "<p> Enthusiastic student pursuing a Bachelors Degree in Computer Science and Information Science specialized in Human-Computer Interaction track;</p>"+
-   "<p>Detail-oriented and motivated to stay on task, meet aggressive timelines and accomplish goals.</p>"
+let introText = "<p>Hello! I am Qi. I am a Junior from UNC Chapel Hill</p>"+
+  "<p> I am an enthusiastic student pursuing a Bachelors Degree in Computer Science and Information Science specialized in Human-Computer Interaction track;</p>"+
+   "<p>I am detail-oriented and motivated to stay on task, meet aggressive timelines and accomplish goals.</p>"
 
 
 let educations = [
